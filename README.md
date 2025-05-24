@@ -1,2 +1,2 @@
-# DS602
-DS602 
+# ML and Big Data Projects
+
